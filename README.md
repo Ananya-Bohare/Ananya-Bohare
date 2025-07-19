@@ -34,7 +34,6 @@ I’m passionate about:
 ![](https://github-readme-stats.vercel.app/api?username=Ananya-Bohare&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ananya-Bohare&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Bohare&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Ananya-Bohare&icon=9&color=1)](https://visitcount.itsvg.in)
 
