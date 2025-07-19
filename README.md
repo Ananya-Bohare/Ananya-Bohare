@@ -1,6 +1,9 @@
 👋 Hi, I’m Ananya Bohare — a tech enthusiast who loves to code, automate, and build impactful solutions.
   
 ✨ I create, I learn, I share — driven by curiosity and a love for technology.
+<br>
+
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4ZGxobTQycnVqdjJqOGdmYXNsMjJ1aXl3ZGtsa3czNm9xOXA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/trT4vVAnrL0WZ6P8kC/giphy.gif" width="200" height="200"/>
 
 I’m passionate about:
 - Automating workflows and processes
