@@ -28,7 +28,11 @@ I’m passionate about:
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ananya-Bohare&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Bohare&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4ZGxobTQycnVqdjJqOGdmYXNsMjJ1aXl3ZGtsa3czNm9xOXA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/trT4vVAnrL0WZ6P8kC/giphy.gif" width="100" height="100"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananya-Bohare&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Bohare&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4ZGxobTQycnVqdjJqOGdmYXNsMjJ1aXl3ZGtsa3czNm9xOXA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/trT4vVAnrL0WZ6P8kC/giphy.gif" width="100" height="100"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ananya-Bohare&icon=9&color=1)](https://visitcount.itsvg.in)
