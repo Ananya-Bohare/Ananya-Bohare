@@ -32,9 +32,7 @@ I’m passionate about:
   </a>
 </p>
 
-
----
-[![](https://visitcount.itsvg.in/api?id=Ananya-Bohare&icon=9&color=1)](https://visitcount.itsvg.in)
+<hr style="margin: 2px 0;" />
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -51,15 +49,12 @@ I’m passionate about:
 ![CI/CD](https://img.shields.io/badge/CICD-%23007ACC.svg?style=flat&logo=githubactions&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ananya-Bohare&icon=9&color=1)](https://visitcount.itsvg.in)
+<hr style="margin: 2px 0;" />
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Ananya-Bohare&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Bohare&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
-
----
-[![](https://visitcount.itsvg.in/api?id=Ananya-Bohare&icon=9&color=1)](https://visitcount.itsvg.in)
+<hr style="margin: 2px 0;" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
