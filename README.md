@@ -10,9 +10,29 @@ I’m passionate about:
 - Deploying scalable solutions using DevOps and Cloud
 - Exploring AI/ML tools and applications
 
-🌐 Let’s Connect
-      
-  [Email](bohareananya3@gmail.com) | [LinkedIn](linkedin.com/in/ananya-bohare-67763b234)
+<p align="left">
+<h1 align="left">Find me on</h1>
+  <a href="https://www.linkedin.com/in/ananya-bohare-67763b234/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://leetcode.com/u/ANANYA2003/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/>
+  </a>
+
+  
+  <a href="https://www.hackerrank.com/profile/ananya_bohare_ai" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50" height="50"/>
+  </a>
+
+  
+  <a href="https://in.pinterest.com/paletteofstillness/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145808.png" alt="Pinterest" width="50" height="50"/>
+  </a>
+</p>
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Ananya-Bohare&icon=9&color=1)](https://visitcount.itsvg.in)
 
