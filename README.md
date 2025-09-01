@@ -52,7 +52,7 @@ I’m passionate about:
 <hr style="margin: 2px 0;" />
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Bohare&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-  <img width="48%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Ananya-Bohare&theme=nightowl&hide_border=true&include_all_commits=true"/>
+  <img width="48%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Ananya-Bohare&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 
